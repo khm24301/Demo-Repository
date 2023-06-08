@@ -2,4 +2,8 @@ modify
 intense
 intensify
 intensifier
-intenting
+intent
+inherit
+
+
+
